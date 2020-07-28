@@ -1,1 +1,1 @@
-"# submodules-demo" 
+This repo is for demonstration of using Git submodules 
