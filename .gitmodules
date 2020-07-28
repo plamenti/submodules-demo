@@ -1,0 +1,3 @@
+[submodule "Cheatsheets"]
+	path = Cheatsheets
+	url = https://github.com/plamenti/Cheatsheets.git
